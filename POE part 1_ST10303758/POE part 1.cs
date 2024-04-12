@@ -22,6 +22,7 @@ namespace POE_part_1_ST10303758
         }
 
         // Method to enter recipe details
+        // Method to enter recipe details
         public void EnterRecipeDetails()
         {
             Console.Write("Enter the number of ingredients: ");
@@ -44,8 +45,8 @@ namespace POE_part_1_ST10303758
                 Console.Write("Quantity: ");
                 quantities[i] = double.Parse(Console.ReadLine());
 
-                Console.Write("Unit of measurement: ");
-                units[i] = Console.ReadLine();
+                Console.Write("Unit of measurement (e.g., kilograms, grams, liters, etc.): ");
+                units[i] = Console.ReadLine(); // Allow user to specify the unit
                 Console.WriteLine();
             }
 
@@ -62,6 +63,7 @@ namespace POE_part_1_ST10303758
                 Console.WriteLine();
             }
         }
+
 
         // Method to display the recipe
         public void DisplayRecipe()
