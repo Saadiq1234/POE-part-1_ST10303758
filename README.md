@@ -3,3 +3,6 @@ Once you have pressed on the button build choose the option that says build solu
 once the build is succeeded you press on the green arrow that says the name of the file and you will see the options pop up on your screen. 
 choose from the options in what you are wanting to do so if you are wanting tp type a recipe you will say enter recipe 
 you will then have to follow the steps to follow and you will be able to dispaly your recipe or scale your recipe or even clear all the data and exit the application.
+
+the link for my github account is:
+https://github.com/Saadiq1234/POE-part-1_ST10303758
